@@ -9,11 +9,11 @@ def verzamel_klant():
     klant = {
         "naam": klant_naam,
         "leeftijd": leeftijd,
-        "bestedingsniveau": bestedingsniveau,
+        "bestgitedingsniveau": bestedingsniveau,
         "klant_type": klant_type
     
     }
-    # test23w
+    # test23wsduhfsudfhsduifhs
     
     return klant
 def genereer_advies(klant):
