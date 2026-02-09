@@ -5,7 +5,7 @@ def verzamel_klant():
     
     klant_naam = input("Wat is uw naam? ")
     leeftijd = int(input("Wat is uw leeftijd? "))
-    bestedingsniveau = int(input("Wat is uw bestedingsniveau per maand in euro's? "))
+    bestedingsniveau = float(input("Wat is uw bestedingsniveau per maand in euro's? "))
     klant_type = input("Wat is uw klanttype? Type 'nieuw', 'bestaand', of 'premium' ").lower()
     
     klant = {
