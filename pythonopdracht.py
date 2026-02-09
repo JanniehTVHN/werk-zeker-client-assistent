@@ -13,6 +13,7 @@ def verzamel_klant():
         "klant_type": klant_type
     
     }
+    # test
     
     return klant
 def genereer_advies(klant):
